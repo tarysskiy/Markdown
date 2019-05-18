@@ -13,8 +13,7 @@
 [Таблицы](#tables)  
 [Цитаты](#blockquotes)  
 [Встроенный HTML](#html)  
-[Горизонтальная линия](#hr)  
-[Видео Youtube](#videos)  
+[Горизонтальная линия](#hr)   
 [Эмодзи](#emoji)  
 
 <a name="headers"><h2>Заголовки</h2></a>
@@ -354,20 +353,6 @@ ___
 
 Подчеркивания
 
-<a name="videos"><h2>Видео Youtube</h2></a>
-
-Ролики нельзя вставить напрямую, но можно вставить изображение со ссылкой на видео, например:
-
-```no-highlight
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ID_ВИДЕОРОЛИКА_НА_YOUTUBE" target="_blank"><img src="http://img.youtube.com/vi/ID_ВИДЕОРОЛИКА_НА_YOUTUBE/0.jpg" 
-alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10" /></a>
-```
-
-На чистом Markdown, но без размеров изображения и рамки:
-
-```no-highlight
-[![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](http://img.youtube.com/vi/ID_ВИДЕОРОЛИКА_НА_YOUTUBE/0.jpg)](http://www.youtube.com/watch?v=ID_ВИДЕОРОЛИКА_НА_YOUTUBE)
-```
 <a name="emoji"><h2>Эмодзи</h2></a>
 
 Чтобы добавить смайл, нужно напечатать соответствующий код и заключить его в двоеточия:
