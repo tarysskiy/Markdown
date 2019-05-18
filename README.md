@@ -18,7 +18,8 @@
 [Встроенный HTML](#html)  
 [Горизонтальная линия](#hr)  
 [Новая строка](#lines)  
-[Видео Youtube](#videos)  
+[Видео Youtube](#videos)
+[Эмодзи](#emoji)  
 
 <a name="headers"><h2>Заголовки</h2></a>
 
@@ -393,4 +394,15 @@ alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10"
 ```no-highlight
 [![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](http://img.youtube.com/vi/ID_ВИДЕОРОЛИКА_НА_YOUTUBE/0.jpg)](http://www.youtube.com/watch?v=ID_ВИДЕОРОЛИКА_НА_YOUTUBE)
 ```
+<a name="emoji"><h2>Эмодзи</h2></a>
 
+Чтобы добавить смайл, нужно напечатать соответствующий код и заключить его в двоеточия:
+
+```no-highlight
+
+:sunglasses:
+
+```
+:sunglasses:
+
+Посмотреть коды эмодзи можно [здесь](https://www.webfx.com/tools/emoji-cheat-sheet/).
